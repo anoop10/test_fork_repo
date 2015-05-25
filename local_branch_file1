@@ -1,0 +1,7 @@
+this file is created in a new local branch.
+will be commited and 
+
+git branch -u origin/local_branch
+
+will be run. want to test if this command will update the remote server also
+with the newly created local branch.
