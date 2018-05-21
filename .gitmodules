@@ -1,0 +1,4 @@
+[submodule "assignments"]
+	path = assignments
+	url = https://github.com/anoop10/assignments.git
+	branch = master
